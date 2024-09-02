@@ -2,7 +2,7 @@
 
 int main(){
 
-printf("VÃ£o tudo se fuder, caralho!\n");
+printf("Hello, wolrd!\n");
 
     
 return 0;
